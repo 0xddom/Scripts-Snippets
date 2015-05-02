@@ -10,3 +10,4 @@ They are not usually standalone applications because I write and run them in REP
 ## List:
 
 * Deorganizator: This python scripts takes the files in a tree of directories and copy them to the root of another.
+* PHP Shell: A very basic PHP shell, perfect for injection.
